@@ -2,6 +2,8 @@ The source code to accompany the [[https://www.youtube.com/watch?v%3DvQO7F2Q9DwA
 PenisThis uses the [[https://github.com/howardabrams/demo-it][demo-it]] package for Emacs.
 
 However, I would assume that most people would just want to run the
-two Bash scripts to help create a complex Git repository where they
+two Bash scripts to help create a complicated Git repository where they
 can play around with a real-feeling repository, and can destroy it to
 try again.
+
+Wtf
