@@ -5,3 +5,5 @@ However, I would assume that most people would just want to run the
 two Bash scripts to help create a complex Git repository where they
 can play around with a real-feeling repository, and can destroy it to
 try again.
+
+ok
